@@ -257,24 +257,6 @@ This project demonstrates key compiler construction concepts:
 3. **Semantic Analysis** - Type checking (implicit in evaluation)
 4. **AST Generation** - Tree data structure construction
 5. **Tree Traversal** - Recursive algorithms for display and evaluation
-
-## 🤝 Contributing
-
-This is an academic project developed for compiler construction courses. While primarily educational, improvements and suggestions are welcome:
-
-1. Fork the repository
-2. Create a feature branch
-3. Implement your changes
-4. Add appropriate tests
-5. Submit a pull request
-
-## 📄 License
-
-This project is created for educational purposes and is available under the MIT License.
-
-## 👤 Author
-
-**Krzysztof Przybysz**  
 Student ID: s24825  
 Course: Compiler Construction / Formal Languages and Translation Techniques
 
