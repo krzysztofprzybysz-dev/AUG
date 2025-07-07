@@ -259,7 +259,3 @@ This project demonstrates key compiler construction concepts:
 5. **Tree Traversal** - Recursive algorithms for display and evaluation
 Student ID: s24825  
 Course: Compiler Construction / Formal Languages and Translation Techniques
-
----
-
-<p align="center">Built with 🧠 and lots of ☕</p>
